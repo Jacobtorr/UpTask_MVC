@@ -1,0 +1,9 @@
+node_modules
+src/
+vendor/
+uptask_mvc.sql
+node_modules/
+gulpfile.js
+package.json
+package-lock.json
+.env
